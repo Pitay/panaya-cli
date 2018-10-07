@@ -1,0 +1,1 @@
+{"version":3,"file":"fileNameQuestion.1.js","sourceRoot":"","sources":["../../../src/questions/fileNameQuestion.1.ts"],"names":[],"mappings":";;AAEA,MAAa,gBAAgB;IAIzB,YAAY,QAAQ;QAChB,IAAI,CAAC,SAAS,GAAG,QAAQ,CAAC;IAC9B,CAAC;IAED,WAAW;QACP,OAAO;YACH;gBACE,IAAI,EAAE,UAAU;gBAChB,IAAI,EAAE,OAAO;gBACb,OAAO,EAAC,yBAAyB,GAAC,IAAI,CAAC,SAAS;aACjD;SACF,CAAA;IACP,CAAC;CAEJ;AAlBD,4CAkBC"}

@@ -1,0 +1,1 @@
+export const fileTypes = [{name: "Component"},{name: "Module"},{name: "Service"}];
